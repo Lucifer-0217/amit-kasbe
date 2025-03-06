@@ -53,13 +53,13 @@ An innovative cybersecurity expert and AI developer with a proven track record i
 
 #### **Bug Bounty Hunter**  
 *Independent Projects* | *Remote*  
-*Jan 2020 – Present*  
+*Jan 2023 – Present*  
 - Reported a **critical vulnerability in Binance (binance.tr)**, allowing access to users' live trading data via a WebSocket.  
 - Discovered a **PII vulnerability in Guild of Guardians**, exposing user data and enabling unauthorized internal system access.  
 
 #### **Developer & Security Specialist**  
 **Foster DoS Attack Tool** | *Remote*  
-*Mar 2022 – Present*  
+*Mar 2023 – Present*  
 - Created a comprehensive tool for simulating advanced DDoS attacks and testing network vulnerabilities.  
 
 #### **Founder & Lead Developer**  
@@ -97,7 +97,7 @@ An innovative cybersecurity expert and AI developer with a proven track record i
 
 ### **Education**  
 **Bachelor of Computer Applications (BCA)**  
-*Private College, Maharashtra* | *Expected Completion: 2025*  
+*Private College, Maharashtra* | *Expected Completion: 2027*  
 
 ---
 
